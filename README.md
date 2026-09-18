@@ -4,7 +4,7 @@
 
 **Software Engineer**
 
-Comecei achando que software era código. Hoje penso mais em software como a representação de um sistema que já existe — pessoas, regras e restrições que estavam lá antes de qualquer linha ser escrita.
+Comecei achando que software era código. Hoje penso mais em software como a representação de um sistema que já existe. Pessoas, regras e restrições que estavam lá antes de qualquer linha ser escrita.
 
 Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
 
@@ -13,7 +13,7 @@ Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
 ## Como eu trabalho
 
 **Tento ver a operação antes de modelar.**
-O problema que chega escrito raramente é o problema inteiro. Quando dá, eu vou olhar de perto antes de decidir a estrutura — nem sempre dá, e aí é chute informado mesmo.
+O problema que chega escrito raramente é o problema inteiro. Quando dá, eu vou olhar de perto antes de decidir a estrutura. Nem sempre dá, e aí é chute informado mesmo.
 
 **Deixo o domínio guiar a arquitetura.**
 Nomear as entidades como o negócio as nomeia poupa muita tradução depois. Quando o modelo espelha o mundo, a arquitetura briga menos com o produto.
