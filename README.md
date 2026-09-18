@@ -12,11 +12,15 @@ Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
 
 ## Como eu trabalho
 
+<img align="left" width="330" src="banner2.gif" alt="">
+
 **Tento ver a operação antes de modelar.**
 O problema que chega escrito raramente é o problema inteiro. Quando dá, eu vou olhar de perto antes de decidir a estrutura. Nem sempre dá, e aí é chute informado mesmo.
 
 **Deixo o domínio guiar a arquitetura.**
 Nomear as entidades como o negócio as nomeia poupa muita tradução depois. Quando o modelo espelha o mundo, a arquitetura briga menos com o produto.
+
+<br clear="left">
 
 **Gosto de conseguir explicar o porquê.**
 Principalmente em ranking e relevância: se eu não consigo explicar por que algo subiu, normalmente é sinal de que eu não entendi o suficiente ainda.
