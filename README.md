@@ -11,8 +11,8 @@
 
 <br>
 
-- **Discovery antes de modelar.** O problema que chega escrito raramente é o inteiro.
-- **Domínio guia a arquitetura.** Nomear como o negócio nomeia poupa tradução depois.
-- **Ranking tem que ser explicável.** Se não sei por que subiu, não entendi o dado.
-- **Análise só vale se vira decisão.** Inclusive para quem não é de engenharia.
-- **Calibrar discovery e entrega.** Ainda aprendendo essa.
+Backend, principalmente Java, Python e TypeScript.
+
+Hoje trabalho com People Analytics e IA generativa. Antes disso, passei por vistoria veicular, eventos e agronegócio, o que me deixou com um gosto por modelagem de domínio e por entender a operação antes de escrever o sistema.
+
+Ando mais interessada em relevância e ranking.
