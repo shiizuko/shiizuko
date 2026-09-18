@@ -5,10 +5,6 @@
   <img src="m4.webp" height="150" alt="">
 </p>
 
-<h3 align="center">julia shizuko</h3>
 
 <p align="center"><sub><code>software engineer</code></sub></p>
 
-<br>
-
-Hoje trabalho com People Analytics e IA generativa.
