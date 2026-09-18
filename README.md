@@ -1,33 +1,28 @@
-<p align="center">
-  <img src="banner.gif" width="500" alt="">
-</p>
+<img align="right" width="370" src="banner.gif" alt="">
 
-<h1 align="center">Julia Shizuko</h1>
+# Julia Shizuko
 
-<p align="center"><em>Software Engineer</em></p>
+**Software Engineer**
 
----
+Comecei achando que software era código. Hoje penso mais em software como a representação de um sistema que já existe — pessoas, regras e restrições que estavam lá antes de qualquer linha ser escrita.
 
-> **Antes eu achava que software era código.**
-> **Hoje vejo software como a representação de um sistema real** — pessoas, regras e restrições que já existiam antes de qualquer linha ser escrita.
+Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
 
-Essa virada mudou a ordem do meu trabalho. O código deixou de ser o começo e virou a consequência.
-
----
+<br clear="right">
 
 ## Como eu trabalho
 
-**Discovery antes de código.**
-Vou ver a operação acontecendo antes de modelar. O problema que chega escrito quase nunca é o problema que existe.
+**Tento ver a operação antes de modelar.**
+O problema que chega escrito raramente é o problema inteiro. Quando dá, eu vou olhar de perto antes de decidir a estrutura — nem sempre dá, e aí é chute informado mesmo.
 
-**O domínio manda na arquitetura.**
-Nomear as entidades como o negócio realmente as nomeia. Quando o modelo espelha o mundo, a arquitetura para de brigar com o produto.
+**Deixo o domínio guiar a arquitetura.**
+Nomear as entidades como o negócio as nomeia poupa muita tradução depois. Quando o modelo espelha o mundo, a arquitetura briga menos com o produto.
 
-**Sinal, não opinião.**
-Ranking é uma afirmação sobre o mundo. Se não dá pra explicar por que algo subiu, não é relevância — é palpite com interface bonita.
+**Gosto de conseguir explicar o porquê.**
+Principalmente em ranking e relevância: se eu não consigo explicar por que algo subiu, normalmente é sinal de que eu não entendi o suficiente ainda.
 
-**Traduzir para quem não é técnico.**
-Análise quantitativa só vira decisão quando atravessa a mesa. Comunicar insight para backgrounds diversos sem diluir o rigor é parte do trabalho, não overhead.
+**Traduzo para quem não é técnico.**
+Análise só vira decisão quando atravessa a mesa. Acho isso parte do trabalho, não um extra.
 
-**Código é consequência.**
-Ele é a última coisa que escrevo, não a primeira.
+**Ainda estou aprendendo a calibrar.**
+Discovery demais também trava entrega. Uma parte boa da senioridade, pra mim, tem sido descobrir quando parar de investigar e começar a escrever.
