@@ -1,45 +1,23 @@
-<table>
-<tr>
-<td colspan="2" align="center"><img src="top.webp" width="390" alt=""></td>
-<td rowspan="2" width="440" valign="top">
+<p align="center">
+  <img src="pair1.webp" width="205" alt="">
+  <img src="top.webp" width="300" alt="">
+  <img src="pair2.webp" width="205" alt="">
+</p>
 
-### JULIA SHIZUKO
+<h3 align="center">julia shizuko</h3>
 
-`Software Engineer`
+<p align="center"><sub><code>software engineer</code></sub></p>
 
-Comecei achando que software era código.
+<br>
 
-Hoje penso mais em software como a representação de um sistema que já existe. Pessoas, regras e restrições que estavam lá antes de qualquer linha ser escrita.
+<img align="right" width="300" src="tall.webp" alt="">
 
-Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
+Comecei achando que software era código. Levei um tempo pra entender que quase tudo que importa já estava lá antes de mim: as pessoas, as regras que ninguém escreveu em lugar nenhum, as exceções que todo mundo da operação conhece de cor. Hoje eu penso em software como a representação de um sistema que já existe. Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
 
-</td>
-</tr>
-<tr>
-<td width="195" align="center"><img src="pair1.webp" width="190" alt=""></td>
-<td width="195" align="center"><img src="pair2.webp" width="190" alt=""></td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="middle"><img src="tall.webp" width="330" alt=""></td>
-<td valign="top">
+Na prática significa que eu tento ver a operação antes de modelar. O problema que chega escrito raramente é o problema inteiro, e quase sempre tem alguém que sabe a parte que faltou. Quando dá, eu vou olhar de perto. Nem sempre dá, e aí é chute informado mesmo. Depois disso, deixo o domínio guiar a arquitetura: nomear as entidades como o negócio já as nomeia poupa uma quantidade absurda de tradução lá na frente.
 
-### COMO EU TRABALHO
+Gosto de conseguir explicar o porquê, principalmente em relevância e ranking. Se eu não consigo dizer por que uma coisa subiu, normalmente não é o sistema que está opaco, sou eu que não entendi o suficiente ainda. E gosto de explicar isso pra quem não é técnico também, porque análise só vira decisão quando atravessa a mesa.
 
-**Tento ver a operação antes de modelar.**
-O problema que chega escrito raramente é o problema inteiro.
+Onde eu ainda erro: calibragem. Discovery demais também trava entrega, e boa parte do que eu chamaria de senioridade tem sido aprender a perceber a hora de parar de investigar e começar a escrever.
 
-**Deixo o domínio guiar a arquitetura.**
-Nomear as entidades como o negócio as nomeia poupa muita tradução depois.
-
-**Gosto de conseguir explicar o porquê.**
-Se eu não consigo explicar por que algo subiu, não entendi o suficiente ainda.
-
-**Traduzo para quem não é técnico.**
-Análise só vira decisão quando atravessa a mesa.
-
-**Ainda estou aprendendo a calibrar.**
-Discovery demais também trava entrega.
-
-</td>
-</tr>
-</table>
+<br clear="right">
