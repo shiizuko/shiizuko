@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.gif" width="500" alt="">
+</p>
+
 <h1 align="center">Julia Stamborovski</h1>
 
 <p align="center"><em>Software Engineer</em></p>
