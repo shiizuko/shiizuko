@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td colspan="2" width="380"><img src="clip1.webp" width="380" alt=""></td>
-<td rowspan="2" valign="top">
+<td colspan="2" align="center"><img src="top.webp" width="390" alt=""></td>
+<td rowspan="2" width="440" valign="top">
 
 ### JULIA SHIZUKO
 
@@ -16,11 +16,11 @@ Isso mudou menos o que eu escrevo e mais a ordem em que eu faço as coisas.
 </td>
 </tr>
 <tr>
-<td width="190"><img src="banner1.webp" width="190" alt=""></td>
-<td width="190"><img src="banner2.webp" width="190" alt=""></td>
+<td width="195" align="center"><img src="pair1.webp" width="190" alt=""></td>
+<td width="195" align="center"><img src="pair2.webp" width="190" alt=""></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="clip2.webp" width="250" alt=""></td>
+<td colspan="2" align="center" valign="middle"><img src="tall.webp" width="330" alt=""></td>
 <td valign="top">
 
 ### COMO EU TRABALHO
